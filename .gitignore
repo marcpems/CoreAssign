@@ -1,0 +1,15 @@
+.vs/
+bin/
+obj/
+Release/
+Debug/
+Generated Files/
+*.obj
+*.resfiles
+*.intermediate
+*.pch
+*.log
+*.tlog
+*.pdb
+*.vcxproj.user
+
