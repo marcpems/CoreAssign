@@ -48,4 +48,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
           name: Arm64Build
-          path: Release/Arm64/coreassign.exe
+          path: Arm64/Release/coreassign.exe
