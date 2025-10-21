@@ -1,4 +1,4 @@
-# CoreAssign
+# CoreAssign 
 Simple utility to list the CPU core capabilities within the current system, and assign affinity for one or processes to low or high powered cores.
 
 
